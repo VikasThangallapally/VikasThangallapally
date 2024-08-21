@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VikasThangallapally
+- 🌱 I’m currently learning Artificial Intelligence & Machine learning
+- 📫 How to reach me:vikasthangallapally.8380@gmail.com
+- 😄 Pronouns: Vikas
