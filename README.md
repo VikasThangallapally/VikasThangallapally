@@ -41,47 +41,57 @@ I am a Computer Science student at SR University with a strong interest in techn
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,c,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,c" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
 </p>
 
 ### AI / ML
 
 <p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 
-<img src="https://img.shields.io/badge/CNN-DeepLearning-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/NLP-NaturalLanguageProcessing-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Deep%20Learning-00599C?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/RAG-LLM%20Applications-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NLP-228B22?style=for-the-badge">
 
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/LLMs-FF4500?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 </p>
 
 ---
