@@ -96,8 +96,7 @@ I am a Computer Science student at SR University with a strong interest in techn
 
 ---
 
-# 💼 Experience
-
+# 💼 Internships
 ## Artificial Intelligence Intern
 
 ### Codec Technology
