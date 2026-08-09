@@ -1,119 +1,145 @@
-# Profile
-<h1 align="center">Hi 👋, I'm Vikas Thangallapally</h1>
-
-<h3 align="center">
-Aspiring AI/ML Engineer 
-</h3>
-
----
-
 # 💫 About Me
-I am a Computer Science student at SR University with a strong interest in technology, software development, and data-driven problem solving. I possess a solid foundation in computer science fundamentals, programming, machine learning, and modern software technologies. Through academic projects and hands-on experience, I have developed skills in designing, developing, and implementing efficient solutions to real-world challenges. I am passionate about continuous learning, innovation, and applying technology to create impactful and scalable systems. I am eager to contribute to dynamic teams, enhance my technical expertise, and grow as a versatile technology professional.
+
+I am a Computer Science Engineering (AI & ML) student at **SR University, Warangal**, with a strong interest in Artificial Intelligence, Machine Learning, Software Development, and Data-Driven Problem Solving.
+
+I have a solid foundation in **Computer Science fundamentals, programming, Machine Learning, Deep Learning, Generative AI, Full Stack Development, and Data Science**. Through academic projects, internships, and hands-on development, I have worked on building intelligent applications and practical solutions to real-world problems.
+
+I am passionate about continuous learning, developing scalable systems, and applying modern technologies to solve challenging problems. I am eager to contribute to dynamic teams, strengthen my technical expertise, and grow as a versatile technology professional.
 
 💡 Passionate about developing innovative solutions using:
 
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Full Stack Development
-* NLP & LLM Applications
-* Computer Vision
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 🔬 Deep Learning
+* 👁️ Computer Vision
+* 💬 NLP & LLM Applications
+* ✨ Generative AI
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 🌐 Full Stack Development
+* 📊 Data Science & Analytics
+* ⚙️ Software Engineering
 
 🚀 Currently focused on:
 
-* Generative AI
+* Generative AI & LLM Applications
 * Retrieval-Augmented Generation (RAG)
+* Prompt Engineering
 * FastAPI Development
+* REST API Development
 * System Design
+* Data Structures & Algorithms
 * Scalable Software Engineering
-
-📫 Contact Me
-
-📧 Email: **[vikasthangallapally.8380@gmail.com](mailto:vikasthangallapally.8380@gmail.com)**
-
-🐙 GitHub: **github.com/VikasThangallapally**
-
+* Machine Learning & Deep Learning
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,c" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### Frontend
+### 🎨 Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-### Backend
+### ⚙️ Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 
-### Databases
+### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-### Tools & Platforms
+### 🤖 AI / Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
-</p>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge\&logo=opencv\&logoColor=white)
 
-### AI / ML
+**Machine Learning:**
+Supervised Learning • Unsupervised Learning • Predictive Analytics • Classification • Regression • Model Evaluation • Feature Engineering • Model Optimization
 
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+**Deep Learning:**
+CNN • RNN • LSTM • Transformers • Fine-Tuning • Image Classification • Object Detection
 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+**Computer Vision:**
+Image Processing • OpenCV • Image Classification • Object Detection • Grad-CAM
 
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+**NLP & Generative AI:**
+NLP • LLMs • Prompt Engineering • RAG • LLM Applications
 
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge">
+**Explainable AI:**
+XAI • SHAP • PDP • LIME • ICE • Grad-CAM
 
-  <img src="https://img.shields.io/badge/Deep%20Learning-00599C?style=for-the-badge">
+### 📊 Data Science
 
-  <img src="https://img.shields.io/badge/NLP-228B22?style=for-the-badge">
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=plotly\&logoColor=white)
 
-  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge">
+* Data Preprocessing
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Feature Selection
+* Predictive Analytics
+* Model Evaluation
+* Data Visualization
 
-  <img src="https://img.shields.io/badge/LLMs-FF4500?style=for-the-badge">
+### 🧩 Core Computer Science
 
-  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge">
+* Data Structures & Algorithms
+* Object-Oriented Programming (OOP)
+* DBMS
+* Operating Systems
+* Computer Networks
+* Software Engineering
+* System Design
+* REST APIs
 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+### 🛠️ Tools & Platforms
 
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=black)
 
 ---
 
 # 💼 Internships
-## Artificial Intelligence Intern
+
+## 🤖 Artificial Intelligence Intern
 
 ### Codec Technology
 
 **Aug 2025 – Sep 2025**
 
-* Developed a Stock Price Prediction model using machine learning techniques.
-* Built a Handwritten Digit Recognition system using deep learning and neural networks.
+* Developed a **Stock Price Prediction** model using machine learning and LSTM-based time-series forecasting.
+* Built a **Handwritten Digit Recognition** system using deep learning and neural networks.
 
-### Data Science Intern
+## 📊 Data Science Intern
 
 ### Oasis Infobyte
 
 **Jun 2024 – Jul 2024**
 
-* Developed a Car Price Prediction model using regression algorithms.
-* Built an Email Spam Detection system using NLP and classification techniques.
+* Developed a **Car Price Prediction** model using regression algorithms.
+* Built an **Email Spam Detection** system using NLP and classification techniques.
 
 ---
 
@@ -140,7 +166,7 @@ https://github.com/VikasThangallapally/Medication-reminder-system
 
 ---
 
-## 🤖 AI ChatBot
+## 🤖 Neuro Assist - AI ChatBot
 
 🔗 Repository:
 https://github.com/VikasThangallapally/ChatBot
@@ -149,7 +175,7 @@ https://github.com/VikasThangallapally/ChatBot
 
 * Python
 * NLP
-* AI
+* Artificial Intelligence
 * Machine Learning
 
 **Features**
@@ -194,36 +220,52 @@ https://github.com/VikasThangallapally/E-COMMERCE-
 
 🥇 Machine Learning with Python – Prodigy Infotech
 
-🥇 Artificial Intelligence Certification – Codec Technology AICTE
+🥇 Artificial Intelligence Certification – Codec Technology & AICTE
 
 ---
 
-# 📜 Patent
+# 📜 Research & Patent
+---
 
-### Anti-Drowsiness Driver Alert System
+### 💡 Anti-Drowsiness Driver Alert System
 
-Published Patent focused on enhancing road safety through real-time driver monitoring and alert mechanisms.
+**Patent Application No.: 202441068253 A**
+
+Developed a **low-cost driver drowsiness detection and alert system** designed to improve road safety by identifying signs of driver drowsiness and providing an immediate alert.
+
+The system uses an **IR sensor to monitor driver movements**, an **Arduino UNO microcontroller for system control**, and a **buzzer to alert the driver** when signs of drowsiness are detected.
+
+The invention focuses on providing a **cost-effective, real-time safety mechanism** to reduce the risk of accidents caused by drowsy driving while improving driver awareness and road safety.
+
+📅 **Filed:** September 10, 2024  
+📖 **Published:** September 20, 2024  
+🏫 **Applicant:** SR University  
+👨‍💻 **Inventor:** Thangallapally Vikas
+
+---
+
+### 🔬 Blood Group Detection Using Fingerprints
+
+Explored a deep learning-based approach for **non-invasive blood group prediction using fingerprint biometrics**. The project involved fingerprint image processing, feature extraction, and classification to investigate the feasibility of identifying blood groups through biometric patterns.
+
+The research focuses on applying **Artificial Intelligence and Computer Vision techniques** to develop an alternative approach to conventional blood group identification methods.
 
 ---
 
 # 🤝 Connect With Me
 
-<p align="center">
+📧 **Email:** [vikasthangallapally.8380@gmail.com](mailto:vikasthangallapally.8380@gmail.com)
 
-<a href="mailto:vikasthangallapally.8380@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+🐙 **GitHub:** [github.com/VikasThangallapally](https://github.com/VikasThangallapally)
 
-<a href="https://github.com/VikasThangallapally">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/vikas-thangallapally-4719962a8/)
 
-</p>
+💻 **LeetCode:** [Practice & Problem Solving](https://leetcode.com/u/user2812Bj/)
 
+🌐 **Portfolio:** [vikast...portfolio.netlify.app
+](https://vikasthangallapally-portfolio.netlify.app/)
 ---
-
-<div align="center">
 
 ### ⭐ Building Intelligent Systems with AI, Machine Learning & Full Stack Development
 
-</div>
+**Always learning. Always building. Always improving. 🚀**
