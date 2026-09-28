@@ -149,6 +149,7 @@ XAI • SHAP • PDP • LIME • ICE • Grad-CAM
 
 🔗 Repository:
 https://github.com/VikasThangallapally/Medication-reminder-system
+🔗 Live Demo: https://medical-remainder-system.netlify.app
 
 **Tech Stack**
 
@@ -170,6 +171,7 @@ https://github.com/VikasThangallapally/Medication-reminder-system
 
 🔗 Repository:
 https://github.com/VikasThangallapally/ChatBot
+🔗 Live Demo: https://neuroassist-chatbot.onrender.com
 
 **Tech Stack**
 
